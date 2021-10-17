@@ -1,0 +1,41 @@
+h2 {
+    color:darkred;
+    font-size:28px;
+    text-align: center;
+    border-style: dotted;
+}
+p1 {
+    color:rgb(16, 100, 9);
+    font-size:22px;
+}
+p2 {
+    color:rgb(221, 116, 41);
+    font-size:15px;
+}
+body {
+    background-color:black ;
+}
+div.a {
+    text-align: center;
+    }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color:black;
+}
+.container {
+    position:relative;
+    text-align: center;
+    color: white;
+}
+p3 {
+    color:darkred;
+    font-size: 20px;
+}
+img {
+    margin:20px;
+}
+</style>
