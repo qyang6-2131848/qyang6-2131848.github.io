@@ -18,6 +18,9 @@ body {
 div.a {
     text-align: center;
     }
+div.b {
+    float:right;
+    }
 .centered {
     position: absolute;
     top: 50%;
@@ -38,4 +41,11 @@ p3 {
 img {
     margin:20px;
 }
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
 </style>
