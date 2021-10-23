@@ -1,0 +1,38 @@
+body {
+    background-color:black;
+}
+
+h2{ 
+    font-size:28px;
+    text-align: center;
+    color:bisque;
+    padding:22px;
+    background-color: grey;
+}
+
+legend {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding:15px;
+    background-color: grey;
+}
+
+label {
+    color:white;
+}
+
+th {
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: white;
+    padding:15px;
+    background-color: rgb(182, 168, 168);
+  }
+
